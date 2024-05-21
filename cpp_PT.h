@@ -75,6 +75,14 @@ typedef unsigned long  giga_sem_sinal;
 #define oito   8
 #define nove   9
 
+// Parentises (extra)
+#define abre_parentises (
+#define fecha_parentises )
+#define abrir_bloco  {
+#define fechar_bloco }
+#define abrir_indice [
+#define fechar_indice ]
+
 
 // STD::IOSTREAM
 #ifdef _GLIBCXX_IOSTREAM
